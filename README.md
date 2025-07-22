@@ -12,6 +12,7 @@ first, second, and the third constraints set the boundaries and the definition o
 
 
 ## project structure
+```
 ./
     pyproject.toml
     README.md
@@ -31,6 +32,7 @@ first, second, and the third constraints set the boundaries and the definition o
         __init__.py
         strategy_type.py
         data_prep.py
+```
 
 ## Run Project
 1. Place the input data in `data` folder.
